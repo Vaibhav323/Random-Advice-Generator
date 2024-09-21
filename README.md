@@ -22,7 +22,7 @@ This project is a simple **Advice Generator** built using ReactJS, designed to r
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/advice-generator.git 
+git clone https://github.com/your-username/advice-generator.git
 cd advice-generator
 ```
 
@@ -46,21 +46,17 @@ This will start the app on `localhost:3000`. Open your browser and navigate to `
 
 ## File Structure
 
-bash
-
-Copy code
-
 ```bash
 advice-generator/
-├── public/ 
-│   └── index.html           # Main HTML file 
-├── src/ 
-│   ├── components/ 
-│   │   └── AdviceBox.js      # Main advice generator component 
-│   ├── App.js                # Main app file 
-│   ├── App.css               # Styles for the app 
-│   └── index.js              # Entry point of the app 
-├── package.json              # Project dependencies 
+├── public/
+│   └── index.html           # Main HTML file
+├── src/
+│   ├── components/
+│   │   └── AdviceBox.js      # Main advice generator component
+│   ├── App.js                # Main app file
+│   ├── App.css               # Styles for the app
+│   └── index.js              # Entry point of the app
+├── package.json              # Project dependencies
 └── README.md                 # Project documentation`
 ```
 
@@ -75,10 +71,14 @@ The dark mode toggle is included on the bottom right of the app. Users can switc
 ## Screenshots
 
 Here is a preview of the app interface:
+
 ### Light mode
-![[./public/lightMode.png]]
+
+![Light Mode Image](./public/lightMode.png)
+
 ### Dark Mode
-![[./public/darkMode.png]]
+
+![Dark Mode Image](./public/darkMode.png)
 
 ## Future Enhancements
 
