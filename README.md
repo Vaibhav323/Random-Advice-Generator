@@ -51,8 +51,6 @@ Random-Advice-Generator/
 ├── public/
 │   └── index.html           # Main HTML file
 ├── src/
-│   ├── components/
-│   │   └── AdviceBox.js      # Main advice generator component
 │   ├── App.js                # Main app file
 │   ├── App.css               # Styles for the app
 │   └── index.js              # Entry point of the app
