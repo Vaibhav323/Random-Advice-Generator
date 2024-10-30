@@ -71,7 +71,7 @@ The dark mode toggle is included on the bottom right of the app. Users can switc
 ## Screenshots
 
 Here is a preview of the app interface:
-
+[Demo Website](https://advice-generator-api-based.netlify.app)
 ### Light mode
 
 ![Light Mode Image](./public/lightMode.png)
