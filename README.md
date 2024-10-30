@@ -22,8 +22,8 @@ This project is a simple **Advice Generator** built using ReactJS, designed to r
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/advice-generator.git
-cd advice-generator
+git clone https://github.com/Vaibhav323/Random-Advice-Generator.git
+cd Random-Advice-Generator
 ```
 
 ### 2. Install Dependencies
@@ -47,7 +47,7 @@ This will start the app on `localhost:3000`. Open your browser and navigate to `
 ## File Structure
 
 ```bash
-advice-generator/
+Random-Advice-Generator/
 ├── public/
 │   └── index.html           # Main HTML file
 ├── src/
@@ -62,7 +62,7 @@ advice-generator/
 
 ## API Integration
 
-The project uses a random advice API to fetch new advice upon each click. To change or integrate another advice API, simply modify the `getAdvice` function in `AdviceBox.js`.
+The project uses a random advice API to fetch new advice upon each click. To change or integrate another advice API, simply modify the `getAdvice` function in `App.js`.
 
 ## Dark Mode
 
